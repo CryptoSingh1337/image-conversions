@@ -1,7 +1,7 @@
 # ImageConversions
 Convert Images into GrayScale or Negative
 
-This project I made during my completion of Course (as a Honour Project) on Coursera.
+This project I made during my completion of Course (as a Honor Project) on Coursera.
 
 * Converts all the colored Images of any Size into GrayScale.
 * Converts all the colored Images of any Size into Negative.
